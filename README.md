@@ -1,4 +1,4 @@
-# pachonk/.dotfiles
+# bettinson/.dotfiles
 
 This is a configuration/dotfile repository for me to fast track rebuilding my development environment.
 
