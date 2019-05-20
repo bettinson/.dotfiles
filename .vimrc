@@ -128,6 +128,7 @@ map <leader>co mmgg"+yG`m
 map <leader>' cs"'
 map <leader>" cs'"
 map <Leader>o :w<cr>:TestNearest<CR>
+map <Leader>jo :e  ~/.journal/`date --rfc-3339='date'`.md
 
 function! RenameFile()
   let old_name = expand('%')
